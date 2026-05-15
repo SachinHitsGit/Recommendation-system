@@ -1,6 +1,6 @@
 # Movie Recommendation System Development 🎬
 
-This repository chronicles the development and optimization of a movie recommendation system utilizing the **MovieLens 1M dataset**. The project systematically explores different recommendation methodologies, starting from traditional content-based filtering leading up to deep-learning-based Neural Collaborative Filtering (NCF). 
+This repository chronicles the development and optimization of a movie recommendation system utilizing the **MovieLens 1M dataset**. The project systematically explores different recommendation methodologies, starting from traditional content-based filtering leading up to deep-learning-based Neural Network. 
 
 It specifically addresses major challenges in recommender system evaluation, including strict data leakage prevention, test stratification, and scalable `Recall@K` measurements via negative sampling.
 
